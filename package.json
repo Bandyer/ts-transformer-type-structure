@@ -1,5 +1,5 @@
 {
-  "name": "ts-transformer-type-structure",
+  "name": "@bandyer/ts-transformer-type-structure",
   "version": "0.1.0",
   "description": "A TypeScript custom transformer which enables to obtain structure of a given type.",
   "scripts": {
@@ -14,7 +14,7 @@
   "keywords": [
     "TypeScript"
   ],
-  "author": "bandyer",
+  "author": "Bandyer",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bandyer/ts-transformer-type-structure/issues"
